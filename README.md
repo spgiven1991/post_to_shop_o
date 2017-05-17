@@ -1,7 +1,6 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+First application for [*Post to Shop*](http://posttoshop.com) by [Perry Given].
 
 Things you may want to cover:
 
